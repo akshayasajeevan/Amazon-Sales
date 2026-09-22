@@ -172,9 +172,8 @@ Insights & Recommendations
 
 ---
 
-👩‍💻 Author
+**👩‍💻 Author**
 
-Akshaya S
-
-B.Sc. Computer Science Graduate
+**Akshaya S**  
+B.Sc. Computer Science Graduate  
 Aspiring Data Analyst
