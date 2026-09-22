@@ -152,6 +152,7 @@ The complete dashboard screenshots are available in:
 
 ## 🔍 Project Workflow
 
+```text
 Raw Dataset
      ↓
 Data Preparation
@@ -167,6 +168,7 @@ Dashboard Development
 Business Analysis
      ↓
 Insights & Recommendations
+```text
 
 ---
 
