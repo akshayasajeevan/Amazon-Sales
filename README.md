@@ -168,7 +168,7 @@ Dashboard Development
 Business Analysis
      ↓
 Insights & Recommendations
-```text
+```
 
 ---
 
