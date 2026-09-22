@@ -177,3 +177,5 @@ Insights & Recommendations
 **Akshaya S**  
 B.Sc. Computer Science Graduate  
 Aspiring Data Analyst
+
+Thank you for visiting this project!
